@@ -7,12 +7,12 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 1,
-    title: "React Portfolio Website",
+    title: "Chatgpt CHatbot App",
     description: "Project 1 description",
-    image: "/images/projects/1.png",
+    image: "/images/projects/chatgpt-App.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/adnan1998/Chatgpt-ChatBot",
+    previewUrl: "https://chatgpt-chat-bot.vercel.app/",
   },
   {
     id: 2,
